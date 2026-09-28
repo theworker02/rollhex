@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/rollhex",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Roll color hex values and contrast-safe presentation helpers.",
+  "bin": {
+    "rollhex": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/rollhex.git"
+  },
+  "homepage": "https://theworker02.github.io/rollhex/",
+  "keywords": [
+    "roll",
+    "hex",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
